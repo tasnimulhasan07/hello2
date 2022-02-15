@@ -44,7 +44,7 @@ LinkedIn:
  Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the https://github.com/tasnimulhasan07/hello-microverse-00 to get the project.
+Feel free to check the https://github.com/tasnimulhasan07/hello2/ to get the project.
 
 Show your support
 Give a ⭐️ if you like this project!
